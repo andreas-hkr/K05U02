@@ -5,6 +5,8 @@ public class Main {
         //   - Talet i kvadrat
         //   - Talet i kubik
 
-
+        for (int i = 1; i <= 12; i++) {
+            System.out.println(i + "  " + i*i + "  " + i*i*i);
+        }
     }
 }
